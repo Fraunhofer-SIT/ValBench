@@ -1,0 +1,2 @@
+Apk;PreAnalysisTime;StringClassifierTime;MethodClassifierTime;SlicingTime;OverallTime;ClassCount;MethodCount;MeanInstPerMethodCount;MedianInstPerMethodCount;MaxInstPerMethodCount;ApkInstCount;StringUniqCount;DecryptedStrings;SlicesCount
+valbench-testcases-0.0.1-SNAPSHOT.jar;23303;84;57;15671;39115;765;212524;20.134136673537338;7;9276;126986;1062;163;425

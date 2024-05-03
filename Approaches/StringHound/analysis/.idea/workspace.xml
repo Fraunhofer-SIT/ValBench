@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3a808de7-fc18-4fca-9046-718cc4ec6ded" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Violist/code/NewStringAnalysis/src/usc/sql/string/BenchmarkTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Violist/code/NewStringAnalysis/src/usc/sql/string/BenchmarkTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Evaluator/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Evaluator/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Evaluator/src/main/java/valbench/eval/EvalMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Evaluator/src/main/java/valbench/eval/EvalMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Evaluator/src/main/java/valbench/eval/PaperEvaluation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Evaluator/src/main/java/valbench/eval/PaperEvaluation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Evaluator/src/main/java/valbench/eval/blueseal/BlueSealEvaluator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Evaluator/src/main/java/valbench/eval/blueseal/BlueSealEvaluator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Evaluator/src/main/java/valbench/eval/harvester/HarvesterEvaluator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Evaluator/src/main/java/valbench/eval/harvester/HarvesterEvaluator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Evaluator/src/main/java/valbench/eval/utils/CounterMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Evaluator/src/main/java/valbench/eval/utils/CounterMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Evaluator/src/main/java/valbench/eval/valdroid/ValDroidEvaluator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Evaluator/src/main/java/valbench/eval/valdroid/ValDroidEvaluator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ValueTestcases/src/main/java/valbench/basictests/AnnotationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ValueTestcases/src/main/java/valbench/basictests/AnnotationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ValueTestcases/src/main/java/valbench/basictests/ArithmeticTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ValueTestcases/src/main/java/valbench/basictests/ArithmeticTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ValueTestcases/src/main/java/valbench/basictests/CallerTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ValueTestcases/src/main/java/valbench/basictests/CallerTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ValueTestcases/src/main/java/valbench/basictests/MultiArrayTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ValueTestcases/src/main/java/valbench/basictests/MultiArrayTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ValueTestcases/src/main/java/valbench/crypto/Blake2s.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ValueTestcases/src/main/java/valbench/crypto/Blake2s.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ValueTestcases/src/main/java/valbench/crypto/RipeMD160.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ValueTestcases/src/main/java/valbench/crypto/RipeMD160.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ValueTestcases/src/main/java/valbench/crypto/Whirlpool.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ValueTestcases/src/main/java/valbench/crypto/Whirlpool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ValueTestcases/src/main/java/valbench/metadata/TestCaseManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ValueTestcases/src/main/java/valbench/metadata/TestCaseManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ValueTestcases/src/main/java/valbench/metadata/impl/TestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ValueTestcases/src/main/java/valbench/metadata/impl/TestCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ValueTestcases/src/main/java/valbench/metadata/impl/requirements/CachedRequirements.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ValueTestcases/src/main/java/valbench/metadata/impl/requirements/CachedRequirements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ValueTestcases/src/main/java/valbench/metadata/impl/requirements/ModelledAPIFieldRequirement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ValueTestcases/src/main/java/valbench/metadata/impl/requirements/ModelledAPIFieldRequirement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ValueTestcases/src/main/java/valbench/metadata/impl/requirements/ModelledAPIMethodRequirement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ValueTestcases/src/main/java/valbench/metadata/impl/requirements/ModelledAPIMethodRequirement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ValueTestcases/src/main/java/valbench/metadata/impl/requirements/PrimitiveTypeRequirement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ValueTestcases/src/main/java/valbench/metadata/impl/requirements/PrimitiveTypeRequirement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ValueTestcases/src/main/java/valbench/metadata/impl/results/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ValueTestcases/src/main/java/valbench/metadata/impl/results/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ValueTestcases/src/main/java/valbench/metadata/interfaces/IResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ValueTestcases/src/main/java/valbench/metadata/interfaces/IResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ValueTestcases/src/main/java/valbench/metadata/interfaces/IResultComparisonStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ValueTestcases/src/main/java/valbench/metadata/interfaces/IResultComparisonStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ValueTestcases/src/main/java/valbench/metadata/interfaces/ITestCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ValueTestcases/src/main/java/valbench/metadata/interfaces/ITestCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ValueTestcases/src/main/java/valbench/modellingtests/DictionaryTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ValueTestcases/src/main/java/valbench/modellingtests/DictionaryTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ValueTestcases/src/main/java/valbench/modellingtests/LoopTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ValueTestcases/src/main/java/valbench/modellingtests/LoopTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ValueTestcases/src/main/java/valbench/modellingtests/MergeTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ValueTestcases/src/main/java/valbench/modellingtests/MergeTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ValueTestcases/src/main/java/valbench/modellingtests/PatternTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ValueTestcases/src/main/java/valbench/modellingtests/PatternTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ValueTestcases/src/main/java/valbench/modellingtests/PullParserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ValueTestcases/src/main/java/valbench/modellingtests/PullParserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ValueTestcases/src/main/java/valbench/modellingtests/ReflectionArrayTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ValueTestcases/src/main/java/valbench/modellingtests/ReflectionArrayTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../ValueTestcases/src/test/java/valbench/CheckForRequirements.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../ValueTestcases/src/test/java/valbench/CheckForRequirements.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="deobfuscator" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="TaskManager">
+    <servers />
+  </component>
+</project>

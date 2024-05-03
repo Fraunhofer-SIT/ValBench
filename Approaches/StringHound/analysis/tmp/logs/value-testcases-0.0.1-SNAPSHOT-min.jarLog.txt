@@ -1,0 +1,2 @@
+Apk;PreAnalysisTime;StringClassifierTime;MethodClassifierTime;SlicingTime;OverallTime;ClassCount;MethodCount;MeanInstPerMethodCount;MedianInstPerMethodCount;MaxInstPerMethodCount;ApkInstCount;StringUniqCount;DecryptedStrings;SlicesCount
+value-testcases-0.0.1-SNAPSHOT-min.jar;20198;46;39;60516044;60536327;8;206247;60.59574468085106;9;2001;2848;33;0;0

@@ -1,0 +1,654 @@
+[
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.ArrayCopyOfTests: java.lang.String testCopyOf2()\u003e",
+    "value": "0"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.ArrayCopyOfTests: java.lang.String testCopyOf2()\u003e",
+    "value": "0"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.InstanceOfTests: java.lang.String testInstanceOf10()\u003e",
+    "value": "false"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.InstanceOfTests: java.lang.String testInstanceOf10()\u003e",
+    "value": "false"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.FieldTests: java.lang.String testLoopCopy()\u003e",
+    "value": "[0, 0, 0]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.FieldTests: java.lang.String testLoopCopy()\u003e",
+    "value": "[0, 0, 0]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.StringUtilsTests: java.lang.String testmath3()\u003e",
+    "value": "\u0001a\u0002"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.StringUtilsTests: java.lang.String testmath3()\u003e",
+    "value": "\u0001a\u0002"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.InstanceOfTests: java.lang.String testInstanceOf7()\u003e",
+    "value": "true"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.InstanceOfTests: java.lang.String testInstanceOf7()\u003e",
+    "value": "true"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.AnnotationTests: java.lang.String testSimpleAnnotationEnum2()\u003e",
+    "value": "a"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.AnnotationTests: java.lang.String testSimpleAnnotationEnum2()\u003e",
+    "value": "a"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.PullParserTest: java.lang.String testSimple()\u003e",
+    "value": "\u003c?xml version\u003d\"1.0\" encoding\u003d\"utf-8\"?\u003e\r\n\u003crootelement1\u003e\r\n    \u003csubelement\u003e\r\n        Hello XML Sub-Element 1\r\n    \u003c/subelement\u003e\r\n    \u003csubelement\u003e\r\n        Hello XML Sub-Element 2\r\n        \u003csubsubelement\u003eSub Sub Element\u003c/subsubelement\u003e\r\n    \u003c/subelement\u003e\r\n    \u003csubelement\u003e\r\n        Hello XML Sub-Element 2\r\n        \u003csubsubelement\u003eSub Sub Element\u003c/subsubelement\u003e\r\n    \u003c/subelement\u003e\r\n    \u003csubelement\u003e\r\n        Hello XML Sub-Element 2\r\n        \u003csubsubelement\u003eSub Sub Element\u003c/subsubelement\u003e\r\n    \u003c/subelement\u003e\r\n\u003c/rootelement1\u003e"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.FieldTests: java.lang.String testImmutableInLoop()\u003e",
+    "value": "[0, 0]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.FieldTests: java.lang.String testImmutableInLoop()\u003e",
+    "value": "[0, 0]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.FieldTests: java.lang.String testStaticFields()\u003e",
+    "value": "[7, 12, 17, 22, 5, 9, 14, 20, 4, 11, 16, 23, 6, 10, 15, 21]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.InstanceOfTests: java.lang.String testInstanceOf9()\u003e",
+    "value": "true"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.InstanceOfTests: java.lang.String testInstanceOf9()\u003e",
+    "value": "true"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.ArrayCopyOfTests: java.lang.String testCopyOf1()\u003e",
+    "value": "[a, \u0000, \u0000, \u0000]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.ArrayCopyOfTests: java.lang.String testCopyOf1()\u003e",
+    "value": "[a, \u0000, \u0000, \u0000]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.FieldTests: java.lang.String complicatedFieldTest2()\u003e",
+    "value": "Foo12"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.FieldTests: java.lang.String complicatedFieldTest2()\u003e",
+    "value": "Foo12"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.InstanceOfTests: java.lang.String testInstanceOf3()\u003e",
+    "value": "true"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.InstanceOfTests: java.lang.String testInstanceOf3()\u003e",
+    "value": "true"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.AliasTests: java.lang.String testAlias3()\u003e",
+    "value": "Part 112345[1, 2, 3, 4, 5]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.AliasTests: java.lang.String testAlias3()\u003e",
+    "value": "Part 112345[1, 2, 3, 4, 5]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.AliasTests: java.lang.String testAlias4()\u003e",
+    "value": "Part 112345[1, 2, 3, 4, 5]Aliased"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.AliasTests: java.lang.String testAlias4()\u003e",
+    "value": "Part 112345[1, 2, 3, 4, 5]Aliased"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.ReflectionTests: java.lang.String testReflectionConstructor()\u003e",
+    "value": "Foo"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.AnnotationTests: java.lang.String testSimpleAnnotationArray()\u003e",
+    "value": "[a, b]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.AnnotationTests: java.lang.String testSimpleAnnotationArray()\u003e",
+    "value": "[a, b]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.StringUtilsTests: java.lang.String testmath2()\u003e",
+    "value": "-32504895"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.StringUtilsTests: java.lang.String testmath2()\u003e",
+    "value": "-32504895"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.FieldTests: java.lang.String complicatedFieldTest()\u003e",
+    "value": "field"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.FieldTests: java.lang.String complicatedFieldTest()\u003e",
+    "value": "field"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.MapTests: java.lang.String testMaps3()\u003e",
+    "value": "-1155869325"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.MapTests: java.lang.String testMaps3()\u003e",
+    "value": "431529176"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.AliasTests: java.lang.String testAlias1()\u003e",
+    "value": "Part 112345[1, 2, 3, 4, 5]Aliased"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.AliasTests: java.lang.String testAlias1()\u003e",
+    "value": "Part 112345[1, 2, 3, 4, 5]Aliased"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.AnnotationTests: java.lang.String testSimpleAnnotation()\u003e",
+    "value": "false"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.InstanceOfTests: java.lang.String testInstanceOf5()\u003e",
+    "value": "true"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.InstanceOfTests: java.lang.String testInstanceOf5()\u003e",
+    "value": "true"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.CharacterTests: java.lang.String testSimpleChars()\u003e",
+    "value": "98"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.CharacterTests: java.lang.String testSimpleChars()\u003e",
+    "value": "98"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.MapTests: java.lang.String testMaps1()\u003e",
+    "value": "-1155869325"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.MapTests: java.lang.String testMaps1()\u003e",
+    "value": "431529176"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.MathTests: java.lang.String testSimpleMathFloat()\u003e",
+    "value": "3.183101430515974"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.MathTests: java.lang.String testSimpleMathFloat()\u003e",
+    "value": "3.183101430515974"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.ClassTests: java.lang.String findStaticFields()\u003e",
+    "value": "[class java.lang.String, int, class java.lang.Integer, class [I, class [Ljava.lang.Integer;]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.ClassTests: java.lang.String findStaticFields()\u003e",
+    "value": "[class java.lang.String, int, class java.lang.Integer, class [I, class [Ljava.lang.Integer;]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.ApacheHex: java.lang.String testApacheHexDecode2()\u003e",
+    "value": "[1, 2, 3]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.ApacheHex: java.lang.String testApacheHexDecode2()\u003e",
+    "value": "[1, 2, 3]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.ReflectionArrayTests: java.lang.String testReflectionArray()\u003e",
+    "value": "[2, 3, 0, 5, 0, 0, 0, 0, 0, 0]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.ReflectionArrayTests: java.lang.String testReflectionArray()\u003e",
+    "value": "[null, 4, null, null, null, null, null, null, null, null]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.ArrayTests: java.lang.String test1()\u003e",
+    "value": "[1, 2]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.ArrayTests: java.lang.String test1()\u003e",
+    "value": "[1, 2]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.InstanceOfTests: java.lang.String testInstanceOf6()\u003e",
+    "value": "false"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.InstanceOfTests: java.lang.String testInstanceOf6()\u003e",
+    "value": "false"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.CallerTests: java.lang.String test()\u003e",
+    "value": "xbaFooxbaFoox"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.CallerTests: java.lang.String test()\u003e",
+    "value": "xbaFooxbaFoox"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.AnnotationTests: java.lang.String testSimpleAnnotationDefault()\u003e",
+    "value": "42"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.AnnotationTests: java.lang.String testSimpleAnnotationDefault()\u003e",
+    "value": "42"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.InstanceOfTests: java.lang.String testInstanceOf4()\u003e",
+    "value": "false"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.InstanceOfTests: java.lang.String testInstanceOf4()\u003e",
+    "value": "false"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.ByteBufferTests: java.lang.String testSimple2()\u003e",
+    "value": "[16909060]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.ByteBufferTests: java.lang.String testSimple2()\u003e",
+    "value": "[16909060]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.MathTests: java.lang.String testSimpleMath2()\u003e",
+    "value": "0"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.MathTests: java.lang.String testSimpleMath2()\u003e",
+    "value": "0"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.AnnotationTests: java.lang.String testSimpleAnnotation2()\u003e",
+    "value": "false"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.AnnotationTests: java.lang.String testSimpleAnnotation2()\u003e",
+    "value": "false"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.MapTests: java.lang.String testMaps2()\u003e",
+    "value": "-1155869325"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.MapTests: java.lang.String testMaps2()\u003e",
+    "value": "431529176"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.MapTests: java.lang.String testMaps2()\u003e",
+    "value": "-1155869325"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.StreamTests: java.lang.String testPrintWriter()\u003e",
+    "value": "[84, 101, 115, 116, 10, 70, 111, 111, 10, 70, 111, 111, 10, 84, 101, 115, 116, 50, 51, 46, 50, 52, 48, 48, 48, 48, 84, 101, 115, 116, 50, 51, 46, 50, 52, 48, 48, 48, 48, 108]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.StreamTests: java.lang.String testPrintWriter()\u003e",
+    "value": "[84, 101, 115, 116, 10, 70, 111, 111, 10, 70, 111, 111, 10, 84, 101, 115, 116, 50, 51, 46, 50, 52, 48, 48, 48, 48, 84, 101, 115, 116, 50, 51, 46, 50, 52, 48, 48, 48, 48, 108]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.InstanceOfTests: java.lang.String testInstanceOf11()\u003e",
+    "value": "true"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.InstanceOfTests: java.lang.String testInstanceOf11()\u003e",
+    "value": "true"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.EnumSetTests: java.lang.String test8_1()\u003e",
+    "value": "true"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.EnumSetTests: java.lang.String test8_1()\u003e",
+    "value": "true"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.ArrayCopyOfTests: java.lang.String testCopyOf4()\u003e",
+    "value": "false"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.ArrayCopyOfTests: java.lang.String testCopyOf4()\u003e",
+    "value": "false"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.LoopTests: java.lang.String skippedLoopSwitch()\u003e",
+    "value": "[0, 2]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.LoopTests: java.lang.String skippedLoopSwitch()\u003e",
+    "value": "[0, 2]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.StreamTests: java.lang.String testInputStream6()\u003e",
+    "value": "[�, 8, \t, �, �, , V, �, O, �]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.StreamTests: java.lang.String testInputStream6()\u003e",
+    "value": "[�, 8, \t, �, �, , V, �, O, �]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.StreamTests: java.lang.String testOutputStream2()\u003e",
+    "value": "[20, 56, 9, -69, -72, 127, 86, -24, 79, -41, 48, -21, 13, -108, -117, -49, 15, -42, 41, -21, 19, 19, -63, 55, 111, 117, -9, -83, 108, -88, -47, 72, -100, 56, 17, 20, 87, 43, -108, 127, 72, 46, 90, 6, 104, 15, 69, -38, -128, 40, 2, -77, 16, -78, -104, -52, 68, 89, 16, -50, -120, -115, -112, 68, -85, 37, -73, 38, -39, 32, 22, -109, -51, 87, -79, -20, 24, -106, -96, 107, -42, -73, -118, -61, 18, 43, -112, -73, -20, -114, -35, 0, -9, -19, -114, -120, -57, 58, -122, -68, -49, -50, 72, 92, 51, -41, -54, -12, -81, 39, 37, 116, -45, -86, -38, -46, 19, 1, 30, 33, -35, -122, 77, 48, -58, 76, 2, -91, -92, 53, 123, 83, 61, 105, 25, 105, 51, 122, 101, -64, 83, 72, 97, 48, 60, -109, -55, 71, -62, -33, 123, 115, 48, -66, -24, 58, -45, -26, 66, -106, 57, 107, -64, -50, 28, -92, 117, -68, 103, -63, 91, -62, 61, 127, -105, 106, 90, 74, 8, -56, 1, 126, 87, 119, 36, 47, -95, -28, 83, -103, 49, 98, 65, -20, 39, -122, -40, 61, 24, -56, -47, -40, 41, 13, 58, 37, 12, -35, 122, -35, -56, 88, 104, 80, -51, 31, -101, 81, -17, 122, 76, 24, 4, 125, -68, -71, 21, -24, -46, 89, 108, 46, 85, 32, 10, -110, 45, -125, -50, -119, 109, -118, -57, -114, -63, 11, 23, -41, -100, -85, 94, -110, 28, 117, -15, -3, 107, 9, -52, -27, -33, -86, -111, -118, 58, 68, -22, 54, -117, 64, 23, -34, 9, -52, -58, 82, -118, -9, -105, 32, -49, -15, -21, 37, -16, -12, 120, -127, 87, -102, 75, -82, -57, 109, -53, 115, -82, -27, -70, -17, -35, 33, -106, 96, -90, 118, -48, -113, 118, 16, 49, -112, 4, -72, -42, 74, 78, 55, 61, -44, 74, 25, 58, -48, -57, 51, -28, -112, 63, -45, -37, 85, 65, 23, 73, 123, -95, -28, -51, -72, -20, -6, 6, 106, -84, -79, -56, -99, -116, -84, -83, 38, 84, -107, -128, -73, 15, 125, 80, -41, 98, -47, -90, 14, -22, -102, -74, -86, -36, 50, 73, 115, -122, -59, 35, -71, 94, -126, 116, -120, 86, 92, -8, -106, 72, 4, -108, -97, 69, 35, 26, 1, -17, -14, 90, -80, -100, 95, -91, -3, 60]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.FieldTests: java.lang.String testArrayInLoop()\u003e",
+    "value": "[4, 0]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.FieldTests: java.lang.String testArrayInLoop()\u003e",
+    "value": "[4, 0]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.AnnotationTests: java.lang.String testSimpleAnnotationEnum()\u003e",
+    "value": "b"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.AnnotationTests: java.lang.String testSimpleAnnotationEnum()\u003e",
+    "value": "b"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.EnumSetTests: java.lang.String test8_2()\u003e",
+    "value": "false"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.EnumSetTests: java.lang.String test8_2()\u003e",
+    "value": "false"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.StringUtilsTests: java.lang.String testmath()\u003e",
+    "value": "1080623104"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.StringUtilsTests: java.lang.String testmath()\u003e",
+    "value": "1080623104"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.StreamTests: java.lang.String testInputStream()\u003e",
+    "value": "114"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.StreamTests: java.lang.String testInputStream5()\u003e",
+    "value": "[\u0000, \u0000, \u0000, \u0000, \u0000, \u0000, \u0000, \u0000, \u0000, \u0000]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.android.AndroidTests: java.lang.String simpleLoopTestField()\u003e",
+    "value": "null01234"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.StringTests: java.lang.String stringTest()\u003e",
+    "value": "ab"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.ReflectionTests: java.lang.String testReflectionConstructorArgs3()\u003e",
+    "value": "Foo"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.LoopTests: java.lang.String skippedLoopIf()\u003e",
+    "value": "[0, 2]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.LoopTests: java.lang.String skippedLoopIf()\u003e",
+    "value": "[0, 2]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.StreamTests: java.lang.String testInputStream2()\u003e",
+    "value": "[0, 0, 0, 0, 44, -69, -8, -71, 26, 75, -112, 69, -59, -26, 23, 95, 16, 1, -22, -61, 47, 127, -51, 94, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.StreamTests: java.lang.String testInputStream2()\u003e",
+    "value": "[0, 0, 0, 0, 44, -69, -8, -71, 26, 75, -112, 69, -59, -26, 23, 95, 16, 1, -22, -61, 47, 127, -51, 94, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.ComplexArrayTests: java.lang.String test()\u003e",
+    "value": "[5, 0]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.ComplexArrayTests: java.lang.String test()\u003e",
+    "value": "[5, 0]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.FieldTests: java.lang.String testSimple()\u003e",
+    "value": "[2, 3, 0]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.FieldTests: java.lang.String testSimple()\u003e",
+    "value": "[2, 3, 0]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.InstanceOfTests: java.lang.String testInstanceOf12()\u003e",
+    "value": "false"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.InstanceOfTests: java.lang.String testInstanceOf12()\u003e",
+    "value": "false"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.ByteBufferTests: java.lang.String testTypes()\u003e",
+    "value": "[0, 2, 0, 0, 79, 0, 64, -112, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 64, 9, 33, -6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.FieldTests: java.lang.String testFieldAlias2()\u003e",
+    "value": "[115, -43]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.FieldTests: java.lang.String testFieldAlias2()\u003e",
+    "value": "[115, -43]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.FieldTests: java.lang.String testFieldInLoop2()\u003e",
+    "value": "120"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.FieldTests: java.lang.String testFieldInLoop2()\u003e",
+    "value": "120"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.ByteBufferTests: java.lang.String testSimple()\u003e",
+    "value": "[0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.ByteBufferTests: java.lang.String testSimple()\u003e",
+    "value": "[0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.StreamTests: java.lang.String testPrintWriter3()\u003e",
+    "value": "[84, 101, 115, 116, 10, 70, 111, 111, 10, 70, 111, 111, 10, 84, 101, 115, 116, 50, 51, 46, 50, 52, 48, 48, 48, 48, 84, 101, 115, 116, 50, 51, 46, 50, 52, 48, 48, 48, 48, 108]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.StreamTests: java.lang.String testPrintWriter3()\u003e",
+    "value": "[84, 101, 115, 116, 10, 70, 111, 111, 10, 70, 111, 111, 10, 84, 101, 115, 116, 50, 51, 46, 50, 52, 48, 48, 48, 48, 84, 101, 115, 116, 50, 51, 46, 50, 52, 48, 48, 48, 48, 108]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.DictionaryTests: java.lang.String test4()\u003e",
+    "value": "5"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.DictionaryTests: java.lang.String test4()\u003e",
+    "value": "5"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.AnnotationTests: java.lang.String testSimpleAnnotationArray2()\u003e",
+    "value": "[1, 2]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.AnnotationTests: java.lang.String testSimpleAnnotationArray2()\u003e",
+    "value": "[1, 2]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.BasicStringTests: java.lang.String testSimpleString4()\u003e",
+    "value": "�����������������������������������������������\u0001\u0001\u0006\u0006\u0007\b\b\u000f\u0010\u0010\u0013\u0017\u0017\u001a\u001b\u001c\u001e\u001e\u001f$%,,/9:??@EKNQQS\\^^_`bbchjlnrsuy{"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.BasicStringTests: java.lang.String testSimpleString4()\u003e",
+    "value": "�����������������������������������������������\u0001\u0001\u0006\u0006\u0007\b\b\u000f\u0010\u0010\u0013\u0017\u0017\u001a\u001b\u001c\u001e\u001e\u001f$%,,/9:??@EKNQQS\\^^_`bbchjlnrsuy{"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.PullParserTest: java.lang.String testSimple2()\u003e",
+    "value": "\u003c?xml version\u003d\"1.0\" encoding\u003d\"utf-8\"?\u003e\r\n\u003crootelement1\u003e\r\n    \u003csubelement\u003e\r\n        Hello XML Sub-Element 1\r\n    \u003c/subelement\u003e\r\n    \u003csubelement\u003e\r\n        Hello XML Sub-Element 2\r\n        \u003csubsubelement\u003eSub Sub Element\u003c/subsubelement\u003e\r\n    \u003c/subelement\u003e\r\n    \u003csubelement\u003e\r\n        Hello XML Sub-Element 2\r\n        \u003csubsubelement\u003eSub Sub Element\u003c/subsubelement\u003e\r\n    \u003c/subelement\u003e\r\n    \u003csubelement\u003e\r\n        Hello XML Sub-Element 2\r\n        \u003csubsubelement\u003eSub Sub Element\u003c/subsubelement\u003e\r\n    \u003c/subelement\u003e\r\n\u003c/rootelement1\u003e"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.PullParserTest: java.lang.String testSimple3()\u003e",
+    "value": "\u003c?xml version\u003d\"1.0\" encoding\u003d\"utf-8\"?\u003e\r\n\u003crootelement1\u003e\r\n    \u003csubelement\u003e\r\n        Hello XML Sub-Element 1\r\n    \u003c/subelement\u003e\r\n    \u003csubelement\u003e\r\n        Hello XML Sub-Element 2\r\n        \u003csubsubelement\u003eSub Sub Element\u003c/subsubelement\u003e\r\n    \u003c/subelement\u003e\r\n    \u003csubelement\u003e\r\n        Hello XML Sub-Element 2\r\n        \u003csubsubelement\u003eSub Sub Element\u003c/subsubelement\u003e\r\n    \u003c/subelement\u003e\r\n    \u003csubelement\u003e\r\n        Hello XML Sub-Element 2\r\n        \u003csubsubelement\u003eSub Sub Element\u003c/subsubelement\u003e\r\n    \u003c/subelement\u003e\r\n\u003c/rootelement1\u003e"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.ArrayCopyOfTests: java.lang.String testCopyOf3()\u003e",
+    "value": "0"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.ArrayCopyOfTests: java.lang.String testCopyOf3()\u003e",
+    "value": "0"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.MathTests: java.lang.String testSimpleMath()\u003e",
+    "value": "78"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.MathTests: java.lang.String testSimpleMath()\u003e",
+    "value": "78"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.TestBitwise: java.lang.String testLogicalXor()\u003e",
+    "value": "true"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.TestBitwise: java.lang.String testLogicalXor()\u003e",
+    "value": "true"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.EnumTests: java.lang.String testSimpleEnum3()\u003e",
+    "value": "[a, b]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.EnumTests: java.lang.String testSimpleEnum3()\u003e",
+    "value": "[a, b]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.MapTests: java.lang.String testMaps4()\u003e",
+    "value": "-1155869325"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.MapTests: java.lang.String testMaps4()\u003e",
+    "value": "431529176"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.MapTests: java.lang.String testMaps4()\u003e",
+    "value": "-1155869325"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.InstanceOfTests: java.lang.String testInstanceOf13()\u003e",
+    "value": "false"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.InstanceOfTests: java.lang.String testInstanceOf13()\u003e",
+    "value": "false"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.AliasTests: java.lang.String testAlias2()\u003e",
+    "value": "Part 1109876[6, 7, 8, 9, 10]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.AliasTests: java.lang.String testAlias2()\u003e",
+    "value": "Part 1109876[6, 7, 8, 9, 10]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.MathTests: java.lang.String testSimpleMathDouble()\u003e",
+    "value": "3.1831015504887654"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.MathTests: java.lang.String testSimpleMathDouble()\u003e",
+    "value": "3.1831015504887654"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.MathTests: java.lang.String testNumericCasts()\u003e",
+    "value": "3"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.MathTests: java.lang.String testNumericCasts()\u003e",
+    "value": "3"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.FieldTests: java.lang.String testFieldAlias()\u003e",
+    "value": "[115, -43]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.FieldTests: java.lang.String testFieldAlias()\u003e",
+    "value": "[115, -43]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.EnumSetTests: java.lang.String test8_0()\u003e",
+    "value": "false"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.EnumSetTests: java.lang.String test8_0()\u003e",
+    "value": "false"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.ArrayTests: java.lang.String testArrayCopy()\u003e",
+    "value": "[0, 0, 0, 0, 0, 0, 2, 3, 4, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.ArrayTests: java.lang.String testArrayCopy()\u003e",
+    "value": "[0, 0, 0, 0, 0, 0, 2, 3, 4, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.FieldTests: java.lang.String testOverwrite()\u003e",
+    "value": "[4, 4]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.FieldTests: java.lang.String testOverwrite()\u003e",
+    "value": "[4, 4]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.ByteBufferTests: java.lang.String testAllocate()\u003e",
+    "value": "[0, 0, 0, 1, 0, 0, 0, 2, 0, 0, 0, 3, 0, 0, 0, 4]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.ByteBufferTests: java.lang.String testAllocate()\u003e",
+    "value": "[0, 0, 0, 1, 0, 0, 0, 2, 0, 0, 0, 3, 0, 0, 0, 4]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.ByteBufferTests: java.lang.String testSlice()\u003e",
+    "value": "[16908288, 263944]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.ByteBufferTests: java.lang.String testSlice()\u003e",
+    "value": "[16908288, 263944]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.FieldTests: java.lang.String testMultiLoop()\u003e",
+    "value": "[2, 3, 0]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.basictests.FieldTests: java.lang.String testMultiLoop()\u003e",
+    "value": "[2, 3, 0]"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.StringTests: java.lang.String testValueOf1()\u003e",
+    "value": "\u0003\u0005a"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.StringTests: java.lang.String testValueOf1()\u003e",
+    "value": "\u0003\u0005a"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.StringUtilsTests: java.lang.String testFooB()\u003e",
+    "value": "xxxx"
+  },
+  {
+    "method": "\u003cde.fraunhofer.sit.sse.valbench.modellingtests.StringUtilsTests: java.lang.String testFooB()\u003e",
+    "value": "xxxx"
+  }
+]

@@ -1,0 +1,2 @@
+https://github.com/stg-tud/StringHound/tree/master/analysis
+We needed to adapt MethodClassifier.scala to pretend that our test cases were string decryption functions, so that StringHound slices them.

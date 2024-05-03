@@ -1,0 +1,2 @@
+sbt --java-home /usr/lib/jvm/java-8-openjdk-amd64/ "runMain main.StringDecryption -o tmp -f alueAnalysis/data/ValueTestcases/target/value-testcases-0.0.1-SNAPSHOT.jar -j -d"
+

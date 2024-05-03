@@ -1,0 +1,30 @@
+[
+  {
+    "method": "\u003creplication.valuetestcases.basictests.BasicStringTests: java.lang.String testCtor()\u003e",
+    "value": ""
+  },
+  {
+    "method": "\u003creplication.valuetestcases.RuntimeTypeAdapterFactory: java.lang.String access$100(replication.valuetestcases.RuntimeTypeAdapterFactory)\u003e",
+    "value": "null"
+  },
+  {
+    "method": "\u003creplication.valuetestcases.basictests.BasicStringTests: java.lang.String testChar()\u003e",
+    "value": "x"
+  },
+  {
+    "method": "\u003creplication.valuetestcases.basictests.BasicStringTests: java.lang.String test()\u003e",
+    "value": "foo"
+  },
+  {
+    "method": "\u003creplication.valuetestcases.basictests.BasicStringTests: java.lang.String testInt()\u003e",
+    "value": "\u0002"
+  },
+  {
+    "method": "\u003creplication.valuetestcases.basictests.BasicStringTests: java.lang.String testIf()\u003e",
+    "value": "x1"
+  },
+  {
+    "method": "\u003creplication.valuetestcases.basictests.BasicStringTests: java.lang.String testIf()\u003e",
+    "value": "x2"
+  }
+]
