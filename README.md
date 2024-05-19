@@ -41,7 +41,7 @@ Just delete the corresponding results of the tool from the ```Evaluator/Results`
 
 If you use this test suite, feel free to cite our SOAP '24 paper ValBench: Benchmarking Exact Value Analysis (DOI 10.1145/3652588.3663322).
 
-Note that Valbench has changed since the paper evaluation. For the original test cases and results, see ```Reproduce.tar.gz```
+Note that Valbench has changed since the paper evaluation. For the original test cases and results, see ```valbench-reproduction.zip```
 
 
 ## License Information
